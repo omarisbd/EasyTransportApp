@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "651485777573",
+    "firebase_url": "https://app-easytransport.firebaseio.com",
+    "project_id": "app-easytransport",
+    "storage_bucket": "app-easytransport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651485777573:android:b9e432d33fa40fd09a874c",
+        "android_client_info": {
+          "package_name": "com.project.easytransportapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651485777573-dbbn5rftlilh2l4gasfbju2nnht3jquj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWb4uTYA5swmODOQirt7PD52Zl73JuE0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651485777573-dbbn5rftlilh2l4gasfbju2nnht3jquj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
